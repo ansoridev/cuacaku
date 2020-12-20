@@ -1,7 +1,5 @@
 # Cuacaku
 
-[![N|Solid](https://ahmadansori.com/assets/img/ansori.png)](https://ahmadansori.com/)
-
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/ansoridev/cashierless-pay)
 
 Perkenalkan Aplikasi Cuacaku yang memiliki fitur untuk meramalkan cuaca dengan menggunakan Android Java sebagai bahasa pemrograman android dan menggunakan Django sebagai Restful API
