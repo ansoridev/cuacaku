@@ -46,7 +46,7 @@ $ pip install -r requirement.txt
 Setelah itu anda dapat menyesuaikan database sesuai dengan konfigurasi keinginan anda
 dan lakukan migrasi database dengan cara
 ```
-> cd Cashierless
+> cd cuaca
 > py m migrate
 > py m makemigrations android
 > py m migrate android
