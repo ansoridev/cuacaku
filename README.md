@@ -16,9 +16,16 @@ Sebagai pembelajaran penggunaan Restful API, List View Base Adapter, Get Image b
 
 Pada project ini menggunakan API Cuaca dari Open Weather Map, dan menggunakan Django Admin untuk mengontrol user, Terdapat fitur Log In dan Register pada aplikasi ini
 
-![alt tag](https://i.ibb.co/YtM93Qf/Screenshot-2020-12-19-15-00-50-140-pro-ansori-cuaca.jpg "Dashboard App")
-![alt tag](https://i.ibb.co/JKcy7Mb/Screenshot-2020-12-20-07-18-38-115-pro-ansori-cuaca.jpg "Log In App")
-![alt tag](https://i.ibb.co/XDhGF7b/Screenshot-2020-12-20-07-18-41-272-pro-ansori-cuaca.jpg "Sign Up App")
+<img src="https://i.ibb.co/YtM93Qf/Screenshot-2020-12-19-15-00-50-140-pro-ansori-cuaca.jpg"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="200" /> <img src="https://i.ibb.co/JKcy7Mb/Screenshot-2020-12-20-07-18-38-115-pro-ansori-cuaca.jpg"
+     alt="Log In Screen"
+     style="float: left; margin-right: 10px;"
+     width="200" /> <img src="https://i.ibb.co/XDhGF7b/Screenshot-2020-12-20-07-18-41-272-pro-ansori-cuaca.jpg"
+     alt="Sign Up Screen"
+     style="float: left; margin-right: 10px;"
+     width="200" />
 
 ### Installation Django
 
